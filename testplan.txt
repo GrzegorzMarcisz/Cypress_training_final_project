@@ -1,0 +1,3 @@
+1. Visit home page => Assert
+2. Click "Dont click me" => Assert
+3. Type input => click "click me" => Assert

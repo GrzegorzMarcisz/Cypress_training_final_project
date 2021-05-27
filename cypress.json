@@ -1,0 +1,9 @@
+{
+    "viewportWidth": 1400,
+    "viewportHeight": 900,
+    "baseUrl": "https://grzegorzmarcisz.github.io/Cypress_training/",
+
+    "env" : {
+        "value": "123"
+    }
+}
